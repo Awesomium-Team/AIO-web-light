@@ -7,7 +7,7 @@ This database of players who violate or use third-party software.
 
 This is a modification specifically for the [AIO-Bans system](https://github.com/Awesomium-Team/AIO-Bans-system). I am temporarily unable to host the web server. This is not the full version of the site (if you remember the extended functionality). You can put it on your server and use it for bans between servers.
 This is a light version, in which: 
-* Simple list is in the ban, 
+* Simple list is in the ban
 * Profile 
 * Add ban.
 
@@ -16,6 +16,7 @@ Config file
 * `database.php.lua`
 * `steamauth/SteamConfig.php`
 
+And don't forget to import `aio.sql`
 
 
 ## You can add bans on local web
